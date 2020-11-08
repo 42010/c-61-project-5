@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+.Img1 {
+    height: 200px;
+    border-radius: 5000px;
+}
+
+h5 {
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+}
+
+h6 {
+    font-size: 30px;
+}
+
+h7 {
+    font-size: 30px;
+}
+
+h8 {
+    font-size: 30px;
+}
+
+h9 {
+    font-size: 30px;
+}
+
+p {
+    font-family: 'lobster', cursive;
+    font-size: 50px;
+}
